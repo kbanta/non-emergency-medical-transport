@@ -33,7 +33,7 @@
                 </div>
 
                 <div class="d-flex flex-wrap gap-3 animate-fade delay-5">
-                    <a href="/booking" class="btn btn-primary btn-lg px-4">
+                    <a href="{{ route('contact') }}" class="btn btn-primary btn-lg px-4">
                         Schedule Transport
                     </a>
                     <a href="/contact" class="btn btn-outline-light btn-lg px-4">

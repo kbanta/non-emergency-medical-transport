@@ -6,7 +6,7 @@
 
 <!-- HERO -->
 <section style="background:linear-gradient(rgba(13,59,102,0.85),rgba(13,59,102,0.85)),
-url('https://images.unsplash.com/photo-1576765607924-3f0a7c6df0db') center/cover no-repeat;
+url('https://images.unsplash.com/photo-1584515933487-779824d29309') center/cover no-repeat;
 color:white;
 text-align:center;
 padding:120px 20px;">
