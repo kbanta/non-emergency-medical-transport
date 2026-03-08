@@ -14,7 +14,7 @@
             <a href="tel:+1234567890" class="btn-choice btn-call d-flex align-items-center justify-content-center">
                 <i class="fas fa-phone-alt me-2"></i> Call Now
             </a>
-            <button class="btn-choice btn-book-service d-flex align-items-center justify-content-center" data-service="">
+            <button class="btn-choice btn-book-service d-flex align-items-center justify-content-center" data-service="" disabled>
                 <i class="fas fa-calendar-check me-2"></i> Book Online
             </button>
         </div>
